@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: labotomy-website
+  description: Public website for labotomy.dev
+  annotations:
+    github.com/project-slug: labotomy-dot-dev/labotomy-dot-dev.github.io
+  tags:
+    - website
+    - public
+spec:
+  type: website
+  lifecycle: production
+  owner: group:default/labotomy-platform

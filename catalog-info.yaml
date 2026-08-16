@@ -5,6 +5,7 @@ metadata:
   description: Public website for labotomy.dev
   annotations:
     github.com/project-slug: labotomy-dot-dev/labotomy-dot-dev.github.io
+    backstage.io/techdocs-ref: dir:.
   tags:
     - website
     - public

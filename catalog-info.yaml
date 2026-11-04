@@ -12,4 +12,5 @@ metadata:
 spec:
   type: website
   lifecycle: production
+  system: labotomy-infra
   owner: group:default/labotomy-platform
